@@ -1,2 +1,0 @@
-# mening-botm
-Ai born
